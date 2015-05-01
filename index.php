@@ -18,7 +18,7 @@
 
   <body>
     <div class="container">
-      <h1>Search</h1>
+      <h1>Search here</h1>
       <label>Ejemplo de un formulario sencillo de búsqueda.</label>
 
       <!-- Formulario de búsqueda con un campo de entrada (input) y un botón -->
