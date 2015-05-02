@@ -23,7 +23,7 @@
 
       <!-- Formulario de búsqueda con un campo de entrada (input) y un botón -->
       <form class="well form-search">
-        <input type="text" class="input-large search-query">
+        <input type="text" class="input-medium search-query">
         <button type="submit" class="btn btn-primary">Buscar</button>
       </form>
 
